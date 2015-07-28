@@ -6,7 +6,7 @@ In order to build
 
 1. Clone Git
 
-2. Install Facebook SDK, Parse, and ParseLoginUI (and any of library in build.gradle) as library dependencies.
+2. Install Facebook SDK, Parse, Google gms, and ParseLoginUI (and any of library in build.gradle) as library dependencies.
 
 3. Be Happy!
 
