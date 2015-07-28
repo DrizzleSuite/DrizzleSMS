@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <color name="drizzle_primary">#ff2090ea</color>
+    <color name="drizzle_primary_dark">#ff1c7ac5</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="gray5">#ffeeeeee</color>
+    <color name="gray10">#ffdddddd</color>
+    <color name="gray13">#ffababab</color>
+    <color name="gray27">#ffbbbbbb</color>
+    <color name="gray50">#ff808080</color>
+    <color name="gray95">#ff111111</color>
+
+    <color name="gray95_transparent50">#7F111111</color>
+
+    <color name="conversation_list_item_background_read_light">#ffffffff</color>
+    <color name="conversation_list_item_background_unread_light">#ffffffff</color>
+    <color name="conversation_list_item_background_read_dark">#ff000000</color>
+    <color name="conversation_list_item_background_unread_dark">#ff333333</color>
+
+    <color name="conversation_list_divider_light">#15000000</color>
+    <color name="conversation_list_divider_dark">#22ffffff</color>
+
+    <color name="drizzle_holo_blue_light">#ff33b5e5</color>
+
+    <color name="dark_action_bar">#ff111111</color>
+    <color name="touch_highlight">#400099cc</color>
+    <color name="light_button">#33ffffff</color>
+    <color name="light_button_highlight">#66ffffff</color>
+    <color name="conversation_item_sent_background_dark">#ff284e0a</color>
+    <color name="conversation_item_sent_background_light">#ff64a926</color>
+    <color name="conversation_item_sent_shadow_light">#ffd5d5d5</color>
+    <color name="conversation_item_sent_shadow_dark">#ff222222</color>
+    <color name="conversation_item_sent_pending_background_light">#5564A926</color>
+    <color name="conversation_item_sent_pending_background_dark">#90284e0a</color>
+    <color name="conversation_item_sent_push_background_light">#ff2090ea</color>
+    <color name="conversation_item_sent_push_background_dark">#ff183b7a</color>
+    <color name="conversation_item_sent_push_pending_background_light">#ff5cace6</color>
+    <color name="conversation_item_sent_push_pending_background_dark">#ff122d5e</color>
+    <color name="conversation_item_received_background_light">#fff3f3f3</color>
+    <color name="conversation_item_received_background_dark">#ff333333</color>
+    <color name="conversation_item_received_shadow_light">#ffefefef</color>
+    <color name="conversation_item_received_shadow_dark">#ff222222</color>
+    <color name="import_export_item_background_light">#ffeeeeee</color>
+    <color name="import_export_item_background_dark">#ff333333</color>
+    <color name="import_export_item_background_shadow_light">#ffd5d5d5</color>
+    <color name="import_export_item_background_shadow_dark">#ff222222</color>
+    <color name="import_export_touch_highlight_light">#400099cc</color>
+    <color name="import_export_touch_highlight_dark">#40ffffff</color>
+
+    <color name="emoji_tab_strip_background">#ffe0e0e0</color>
+    <color name="emoji_tab_indicator">#66555555</color>
+    <color name="emoji_tab_underline">#44555555</color>
+
+
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+
+    <color name="com_parse_ui_parse_login_button">#1687ca</color>
+    <color name="com_parse_ui_parse_login_button_push">#801687ca</color>
+    <color name="com_parse_ui_parse_login_button_focus">#851687ca</color>
+    <color name="com_parse_ui_parse_login_help_button_label">#1687ca</color>
+    <color name="com_parse_ui_parse_login_help_button_label_push">#801687ca</color>
+    <color name="com_parse_ui_parse_login_help_button_label_focus">#851687ca</color>
+    <color name="com_parse_ui_parse_login_text_hint">#AAAAAA</color>
+    <color name="com_parse_ui_parse_login_display_text">@android:color/white</color>
+    <color name="com_parse_ui_facebook_login_button">#3B5998</color>
+    <color name="com_parse_ui_facebook_login_button_push">#2E4677</color>
+    <color name="com_parse_ui_facebook_login_button_focus">#304F8B</color>
+    <color name="com_parse_ui_twitter_login_button">#2DAAE2</color>
+    <color name="com_parse_ui_twitter_login_button_push">#2588B5</color>
+    <color name="com_parse_ui_twitter_login_button_focus">#2788BE</color>
+
+    <color name="accent">#FFC107</color>
+
+</resources>
